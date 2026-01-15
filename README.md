@@ -56,6 +56,6 @@ Cravers aims to simplify the food ordering journey by reducing steps, improving 
 
 ## 🔗 Interactive Prototype
 - View Figma Prototype:  
-👉 https://www.figma.com/design/BbKy9y12pdqHACbjw6JO1u/cravers?node-id=0-1&t=GjZPNJRukLr4wXUm-1
+👉 https://www.figma.com/design/2GhBvCNIZsUGM1Nd4zuZhj/Calm%C3%A9?node-id=3-2&t=q7Oqajn0OiIWXwxR-1
 
 ---
